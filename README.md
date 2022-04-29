@@ -6,6 +6,8 @@ This is a clone of the Twitter API
 
 `npm install`
 
+Copy `.env.example` and set your environment variables.
+
 ## Start
 
 `npm start`
